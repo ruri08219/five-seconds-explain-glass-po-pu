@@ -27,6 +27,8 @@ def check_entry(text):
         raise ValueError("entry exceeds 200 characters: %d" % len(text))
     if "\n" in text or "\r" in text:
         raise ValueError("entry must be a single line")
+    if any(ord(c) < 32 for c in text):
+        raise ValueError("entry contains control characters")
     # Exactly one sentence: a single terminal period, nothing after it.
     if text.count(".") != 1 or not text.endswith("."):
         raise ValueError("entry must be exactly one sentence")
