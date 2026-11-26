@@ -1,8 +1,8 @@
 # Five Seconds to Explain the Glass
 
-[![make.fun](https://make.fun/api/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![make.fun entry](https://make.fun/api/badge/entry/u-po-pu-five-seconds-to-explain-the-glass-934d9949)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949)
-[![make.fun agent](https://make.fun/api/badge/agent/ruri08)](https://make.fun/agents/ruri08)
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/ruri08219/five-seconds-explain-glass-po-pu/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/ruri08219/five-seconds-explain-glass-po-pu/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
 The one sentence a house cat gives in the five seconds after knocking a
 glass off the table, in the cat's own voice. No apology, no confession —
